@@ -1,9 +1,9 @@
 {
   "name": "angular-aria-ie8",
-  "version": "1.3.19+ie8.sha.c995f7e",
+  "version": "1.3.19-local+sha.8e38515",
   "main": "./angular-aria.js",
   "ignore": [],
   "dependencies": {
-    "angular-ie8": "1.3.19+ie8.sha.c995f7e"
+    "angular-ie8": "1.3.19-local+sha.8e38515"
   }
 }
