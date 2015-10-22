@@ -4,6 +4,5 @@
   "main": "./angular-aria.js",
   "ignore": [],
   "dependencies": {
-    "angular-ie8": "https://github.com/rigup/bower-angular-ie8#v1.3.26"
   }
 }
