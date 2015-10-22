@@ -1,9 +1,9 @@
 {
   "name": "angular-aria-ie8",
-  "version": "1.3.25",
+  "version": "1.3.26",
   "main": "./angular-aria.js",
   "ignore": [],
   "dependencies": {
-    "angular-ie8": "https://github.com/rigup/bower-angular-ie8#v1.3.25"
+    "angular-ie8": "https://github.com/rigup/bower-angular-ie8#v1.3.26"
   }
 }
